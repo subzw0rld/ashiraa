@@ -1,2 +1,0 @@
-# ashiraa
-Website for Ashiraa
